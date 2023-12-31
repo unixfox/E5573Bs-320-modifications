@@ -1,1 +1,4 @@
- 
+- modified good firmware: https://web.archive.org/web/20231231105046/https://4pda.to/forum/index.php?showtopic=720040&st=20#entry49959520
+- extra firmware for E5573s-856: https://web.archive.org/web/20231231105215/https://phcorner.net/threads/tutorial-unlocking-debrand-for-globe-e5573s-856-2019.741842/
+- very good summary repo for all the things related to huawei: https://web.archive.org/web/20231231105138/https://github.com/Huawei-LTE-routers-mods/README
+- huawei a lot of stuff: https://www.mediafire.com/folder/addf68t1p865a/Huawei_Stuff
